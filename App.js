@@ -7,7 +7,6 @@ import PeopleDetailPage from './src/pages/PeopleDetailPage';
 
 import { capitalizeFirstLetter } from './src/util';
 
-
 const AppNavigator = createStackNavigator({
 	'Main': {
 		screen: PeoplePage
